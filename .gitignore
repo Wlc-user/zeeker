@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules - 非常重要！
+node_modules/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data files (exclude large files)
+*.csv
+*.xlsx
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Images (exclude large image folders)
+官网图片_已清洗/
+
+# Temporary files
+*.tmp
+*.log
+
+# Package files
+package-lock.json
+package.json
