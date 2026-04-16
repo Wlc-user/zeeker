@@ -5,6 +5,14 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+<img width="1842" height="827" alt="image" src="https://github.com/user-attachments/assets/0f23ac63-b717-47ba-9414-bf82759d2796" />
+<img width="1868" height="894" alt="image" src="https://github.com/user-attachments/assets/1f83177c-40b9-4b83-99da-bea8805cc2ed" />
+<img width="1906" height="953" alt="image" src="https://github.com/user-attachments/assets/d4ee9386-9fba-4f19-bf06-ced0392e8662" />
+<img width="1918" height="888" alt="image" src="https://github.com/user-attachments/assets/44e72ba4-30f1-412d-b52b-180e9fdd4b1b" />
+<img width="1906" height="864" alt="image" src="https://github.com/user-attachments/assets/2fe144f0-5efd-4b22-9be8-960fa53a9aef" />
+<img width="1900" height="846" alt="image" src="https://github.com/user-attachments/assets/85d44d7b-23d0-493c-be13-03b95383416e" />
+<img width="1770" height="880" alt="image" src="https://github.com/user-attachments/assets/c857365d-e1d6-484c-9583-9822a1780073" />
+<img width="1915" height="908" alt="image" src="https://github.com/user-attachments/assets/82d3cb86-84dc-4212-96a2-8820e8cdd9e2" />
 
 ## 功能特性
 
